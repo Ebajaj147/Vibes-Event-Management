@@ -1,2 +1,2 @@
 # Vibes-Website
-Website for event management
+Event management website
